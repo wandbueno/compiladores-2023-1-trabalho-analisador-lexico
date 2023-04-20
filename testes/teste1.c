@@ -1,6 +1,8 @@
-int main() {
+int main()
+{
     int a, b, c, d;
-    if(z || c) {
+    if (z || c)
+    {
         return 3.14;
     }
 }

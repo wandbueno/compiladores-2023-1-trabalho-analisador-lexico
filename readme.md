@@ -1,12 +1,13 @@
 # Trabalho: Analisador Léxico
 
 Nome dos alunos e números de matrícula:
-* Aluno: ___________________________
-* Aluno: ___________________________
-* Disciplina: Compiladores
-* Semestre: 2023/1
-* Data de entrega: 26/04/2023
-* Valor: 2,0
+
+- Aluno: Wanderson Oliveira Bueno
+- Aluno: Jhonata Batista Silva
+- Disciplina: Compiladores
+- Semestre: 2023/1
+- Data de entrega: 26/04/2023
+- Valor: 2,0
 
 > Orientações: preencher os dados da dupla antes da data de entrega
 
@@ -24,9 +25,10 @@ O presente trabalho consiste da construção de um analisador léxico que funcio
 
 O trabalho deverá lidar com as seguintes classes de token:
 
-* Palavra reservada: 
+- Palavra reservada:
+
   - int
-  - char 
+  - char
   - long
   - short
   - float
@@ -45,7 +47,8 @@ O trabalho deverá lidar com as seguintes classes de token:
   - default
   - return
 
-* Operadores:
+- Operadores:
+
   - =
   - \+
   - \-
@@ -63,14 +66,15 @@ O trabalho deverá lidar com as seguintes classes de token:
   - &&
   - +=
   - -=
-  - *=
+  - \*=
   - /=
   - <
   - \>
   - <=
   - \>=
 
-* Delimitadores: 
+- Delimitadores:
+
   - (
   - )
   - [
@@ -80,14 +84,14 @@ O trabalho deverá lidar com as seguintes classes de token:
   - ;
   - ,
 
-* Constante numérica inteira
-* Constante numérica ponto flutuante
-* Constante textual
-* Identificadores (nome de variáveis e de funções)
+- Constante numérica inteira
+- Constante numérica ponto flutuante
+- Constante textual
+- Identificadores (nome de variáveis e de funções)
 
 ## Tópicos de avaliação
 
-* Escaneamento e extração de tokens de forma correta
-* Detalhamento e justificativa das técnicas utilizadas
-* Análise dos códigos entregues
-* Apresentação expositiva dos resultados
+- Escaneamento e extração de tokens de forma correta
+- Detalhamento e justificativa das técnicas utilizadas
+- Análise dos códigos entregues
+- Apresentação expositiva dos resultados
